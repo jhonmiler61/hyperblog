@@ -18,9 +18,16 @@ body{
 
 #cabecera{
 
-    background: #33a;
+    background: red;
     box-shadow: 0px 5px 30px 0px rgb(0, 0, 0);
     color: white;
     margin: 0;
     padding: 0.5em;
+    font-size: 20px;
+    font-weight: bold;
 }
+
+#cabecera img{
+    width: 50px;
+}
+
