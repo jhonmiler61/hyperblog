@@ -13,5 +13,6 @@ En este curso vemos de todo:
 * trucos muy locos del profesor
 * personalidades multiples
 * clase de miler
+* linux, windows y mac
 
 y como amable recordatorio  : **Este readme.md es un chiste"** Diseñado par a el ejemplo
