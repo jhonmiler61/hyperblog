@@ -14,5 +14,6 @@ En este curso vemos de todo:
 * personalidades multiples
 * clase de miler
 * linux, windows y mac
+* Disponible todas las edades
 
 y como amable recordatorio  : **Este readme.md es un chiste"** Diseñado par a el ejemplo
