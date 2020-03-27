@@ -12,5 +12,6 @@ En este curso vemos de todo:
 * el verdadero amor por las buenas practicas
 * trucos muy locos del profesor
 * personalidades multiples
+* clase de miler
 
 y como amable recordatorio  : **Este readme.md es un chiste"** Diseñado par a el ejemplo
