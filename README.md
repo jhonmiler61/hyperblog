@@ -13,5 +13,10 @@ En este curso vemos de todo:
 * trucos muy locos del profesor
 * personalidades multiples
 * clase de miler
+<<<<<<< HEAD
+=======
+* linux, windows y mac
+* Disponible todas las edades
+>>>>>>> mejorado
 
 y como amable recordatorio  : **Este readme.md es un chiste"** Diseñado par a el ejemplo
